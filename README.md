@@ -1,2 +1,2 @@
 # credit-card-fraud-detection
-project
+ybi project
